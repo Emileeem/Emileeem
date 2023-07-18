@@ -1,5 +1,7 @@
 <h1>
+  <b>
   Welcome to Emy's Coofee break!
+  </b>
 </h1>
 <br/>
 
@@ -7,7 +9,7 @@
 <img height = "180em" src = "[https://i.pinimg.com/564x/d2/a4/07/d2a40741e76e2a9ef908e7216b94eba1.jpg](https://i.pinimg.com/564x/df/e6/80/dfe6802744e068b616215c860b879be6.jpg">
 
 <br/>
-# **Meu nome é Emyli Quadros e sou estudante de Análise de Sistemas, seja bem vindo ao meu Git**
+<h2> Meu nome é Emyli Quadros e sou estudante de Análise de Sistemas, seja bem vindo ao meu Git </h2>
 
 - 🍂 Trabalho como Jovem Aprendiz na Bosch! 
 - 👩🏽‍💻 Atualmente estudando: C# & Node
