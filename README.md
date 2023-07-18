@@ -5,9 +5,7 @@
 </h1>
 <br/>
 
-<img height = "180em" src = "https://i.pinimg.com/564x/d2/a4/07/d2a40741e76e2a9ef908e7216b94eba1.jpg">
-<img height = "180em" src = "https://img.freepik.com/premium-vector/cute-panda-loves-bubble-tea-cartoon_42750-655.jpg?w=826">
-
+<img src = "https://images6.alphacoders.com/115/1159915.jpg">
 <br/>
 <h2> Meu nome é Emyli Quadros e sou estudante de Análise de Sistemas, seja bem vindo ao meu Git </h2>
 
@@ -19,3 +17,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emileeem&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<h2>Fique à vontade!</h2>
